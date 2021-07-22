@@ -1,0 +1,33 @@
+Connect a user-made data table with a database
+Create a user-made data item / table in Models
+
+
+models.py:
+create user-made data table / class
+
+
+helpers.py:
+import user-made data item / class maybe
+
+
+forms.py:
+done 
+
+config.py:
+done 
+
+templates:
+done 
+
+static:
+done 
+
+site_templates:
+done 
+
+authentication:
+done 
+
+api:
+Finish routes
+Connect API created by user 

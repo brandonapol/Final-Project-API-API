@@ -1,0 +1,4 @@
+Create flask variables
+Zip flask files
+Connect React and Flask to API database
+Create DDL file to make database
